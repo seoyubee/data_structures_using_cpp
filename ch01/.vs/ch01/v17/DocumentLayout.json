@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parkj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data_structures_using_cpp\\ch01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE93A82-A306-449C-902F-5B2332EC99C2}|prob01\\prob01.vcxproj|C:\\Users\\parkj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data_structures_using_cpp\\ch01\\prob01\\sum_algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CE93A82-A306-449C-902F-5B2332EC99C2}|prob01\\prob01.vcxproj|solutionrelative:prob01\\sum_algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sum_algorithm.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data_structures_using_cpp\\ch01\\prob01\\sum_algorithm.cpp",
+              "RelativeDocumentMoniker": "prob01\\sum_algorithm.cpp",
+              "ToolTip": "C:\\Users\\parkj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data_structures_using_cpp\\ch01\\prob01\\sum_algorithm.cpp",
+              "RelativeToolTip": "prob01\\sum_algorithm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T08:38:07.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

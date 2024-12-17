@@ -1,0 +1,8 @@
+﻿  StudentStack.cpp
+C:\Users\parkj\OneDrive\바탕 화면\data_structures_using_cpp\ch03_stack\StudentStack\Student.h(16,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (소스 파일 'StudentStack.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\parkj\OneDrive\바탕 화면\data_structures_using_cpp\ch03_stack\StudentStack\Student.h(17,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (소스 파일 'StudentStack.cpp'을(를) 컴파일하는 중)
+  
+  StudentStack.vcxproj -> C:\Users\parkj\OneDrive\바탕 화면\data_structures_using_cpp\ch03_stack\x64\Debug\StudentStack.exe

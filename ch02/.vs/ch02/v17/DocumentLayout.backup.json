@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parkj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data_structures_using_cpp\\ch02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38D90A8F-8FB3-45A8-A699-3643E65A28A6}|prob01\\prob01.vcxproj|C:\\Users\\parkj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data_structures_using_cpp\\ch02\\prob01\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38D90A8F-8FB3-45A8-A699-3643E65A28A6}|prob01\\prob01.vcxproj|solutionrelative:prob01\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D90A8F-8FB3-45A8-A699-3643E65A28A6}|prob01\\prob01.vcxproj|C:\\Users\\parkj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data_structures_using_cpp\\ch02\\prob01\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38D90A8F-8FB3-45A8-A699-3643E65A28A6}|prob01\\prob01.vcxproj|solutionrelative:prob01\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D90A8F-8FB3-45A8-A699-3643E65A28A6}|prob01\\prob01.vcxproj|C:\\Users\\parkj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data_structures_using_cpp\\ch02\\prob01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38D90A8F-8FB3-45A8-A699-3643E65A28A6}|prob01\\prob01.vcxproj|solutionrelative:prob01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data_structures_using_cpp\\ch02\\prob01\\main.cpp",
+              "RelativeDocumentMoniker": "prob01\\main.cpp",
+              "ToolTip": "C:\\Users\\parkj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data_structures_using_cpp\\ch02\\prob01\\main.cpp",
+              "RelativeToolTip": "prob01\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T04:07:41.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Polynomial.h",
+              "DocumentMoniker": "C:\\Users\\parkj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data_structures_using_cpp\\ch02\\prob01\\Polynomial.h",
+              "RelativeDocumentMoniker": "prob01\\Polynomial.h",
+              "ToolTip": "C:\\Users\\parkj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data_structures_using_cpp\\ch02\\prob01\\Polynomial.h",
+              "RelativeToolTip": "prob01\\Polynomial.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T03:53:01.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Polynomial.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data_structures_using_cpp\\ch02\\prob01\\Polynomial.cpp",
+              "RelativeDocumentMoniker": "prob01\\Polynomial.cpp",
+              "ToolTip": "C:\\Users\\parkj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data_structures_using_cpp\\ch02\\prob01\\Polynomial.cpp",
+              "RelativeToolTip": "prob01\\Polynomial.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T03:53:03.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
