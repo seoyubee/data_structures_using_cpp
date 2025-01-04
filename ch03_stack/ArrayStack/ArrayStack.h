@@ -19,19 +19,19 @@ class ArrayStack {
   bool isEmpty() { return top == -1; }
   bool isFull() { return top == MAX_STACK_SIZE - 1; }
   void push(int e) {
-    if (isFull()) error("½ºÅÃ Æ÷È­ »óÅÂ\n");
+    if (isFull()) error("ìŠ¤íƒ í¬í™” ìƒíƒœ\n");
     data[++top] = e;
   }
   int pop() {
-    if (isEmpty()) error("½ºÅÃÀÌ ºñ¾î ÀÖÀ½\n");
+    if (isEmpty()) error("ìŠ¤íƒì´ ë¹„ì–´ ìˆìŒ\n");
     return data[top--];
   }
   int peek() {
-    if (isEmpty()) error("½ºÅÃÀÌ ºñ¾î ÀÖÀ½\n");
+    if (isEmpty()) error("ìŠ¤íƒì´ ë¹„ì–´ ìˆìŒ\n");
     return data[top];
   }
   void display() {
-    printf("½ºÅÃ Ç×¸ñÀÇ ¼ö: %d\n", top + 1);
+    printf("ìŠ¤íƒ í•­ëª©ì˜ ìˆ˜: %d\n", top + 1);
     for (int i = 0; i <= top; ++i) {
       printf("%d\n", data[i]);
     }

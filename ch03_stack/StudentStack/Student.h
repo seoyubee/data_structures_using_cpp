@@ -13,8 +13,8 @@ class Student
 public:
 	Student(int i = 0, const char* n = "", const char* d = "") {
 		id = i;
-		strcpy(name, n);
-		strcpy(dept, d);
+		strcpy_s(name, n);
+		strcpy_s(dept, d);
 	}
 
 	void display() {

@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{578C5AAB-0BEB-42F7-968C-7FC58AA8F825}|StudentStack\\StudentStack.vcxproj|C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\StudentStack\\StudentStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{578C5AAB-0BEB-42F7-968C-7FC58AA8F825}|StudentStack\\StudentStack.vcxproj|solutionrelative:StudentStack\\StudentStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EAA21675-EE4D-43C4-980E-88BEC381A231}|Maze\\Maze.vcxproj|C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\Maze\\Location2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAA21675-EE4D-43C4-980E-88BEC381A231}|Maze\\Maze.vcxproj|solutionrelative:Maze\\Location2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578C5AAB-0BEB-42F7-968C-7FC58AA8F825}|StudentStack\\StudentStack.vcxproj|C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\StudentStack\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{578C5AAB-0BEB-42F7-968C-7FC58AA8F825}|StudentStack\\StudentStack.vcxproj|solutionrelative:StudentStack\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578C5AAB-0BEB-42F7-968C-7FC58AA8F825}|StudentStack\\StudentStack.vcxproj|C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\StudentStack\\StudentStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{578C5AAB-0BEB-42F7-968C-7FC58AA8F825}|StudentStack\\StudentStack.vcxproj|solutionrelative:StudentStack\\StudentStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EAA21675-EE4D-43C4-980E-88BEC381A231}|Maze\\Maze.vcxproj|C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\Maze\\Location2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAA21675-EE4D-43C4-980E-88BEC381A231}|Maze\\Maze.vcxproj|solutionrelative:Maze\\Location2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.h",
-              "DocumentMoniker": "C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\StudentStack\\Student.h",
-              "RelativeDocumentMoniker": "StudentStack\\Student.h",
-              "ToolTip": "C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\StudentStack\\Student.h",
-              "RelativeToolTip": "StudentStack\\Student.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-01T08:34:54.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentStack.cpp",
-              "DocumentMoniker": "C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\StudentStack\\StudentStack.cpp",
-              "RelativeDocumentMoniker": "StudentStack\\StudentStack.cpp",
-              "ToolTip": "C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\StudentStack\\StudentStack.cpp",
-              "RelativeToolTip": "StudentStack\\StudentStack.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-01T08:24:49.538Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentStack.h",
-              "DocumentMoniker": "C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\StudentStack\\StudentStack.h",
-              "RelativeDocumentMoniker": "StudentStack\\StudentStack.h",
-              "ToolTip": "C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\StudentStack\\StudentStack.h",
-              "RelativeToolTip": "StudentStack\\StudentStack.h",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
+              "Title": "Location2D.cpp",
+              "DocumentMoniker": "C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\Maze\\Location2D.cpp",
+              "RelativeDocumentMoniker": "Maze\\Location2D.cpp",
+              "ToolTip": "C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\Maze\\Location2D.cpp",
+              "RelativeToolTip": "Maze\\Location2D.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-04T11:57:33.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Location2D.h",
+              "DocumentMoniker": "C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\Maze\\Location2D.h",
+              "RelativeDocumentMoniker": "Maze\\Location2D.h",
+              "ToolTip": "C:\\Users\\psn\\Desktop\\data_structures_using_cpp\\ch03_stack\\Maze\\Location2D.h",
+              "RelativeToolTip": "Maze\\Location2D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-27T08:07:39.571Z",
+              "WhenOpened": "2025-01-04T11:50:33.428Z",
               "EditorCaption": ""
             }
           ]
